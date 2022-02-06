@@ -22,4 +22,4 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   
   --- 
    
-Anyone is permitted to redistribute verbatim (or modified copies) of this Contract Agreement/License Document & changing it is allowed.  
+Anyone is permitted to redistribute verbatim (or modified) copies of this Contract Agreement/License Document & changing it is allowed.  
