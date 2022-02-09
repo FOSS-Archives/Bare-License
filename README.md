@@ -1,7 +1,7 @@
-# The "MIT No Attribution" (MIT-0) License
+# The No Attribution" License
 
-The "MIT No Attribution" or "MIT-0" license is a modification to the
-usual MIT license that removes the requirement for attribution. It is
+The "No Attribution" or "-0" license is a modification to the
+usual MIT license that also removes the requirement for attribution. It is
 roughly the same as an MIT license consisting of a sandwich of
 (paragraph, line, paragraph), but it is missing the middle line of the
 'sandwich'.
