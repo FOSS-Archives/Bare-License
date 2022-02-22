@@ -20,7 +20,7 @@ The CC0 and various "do what you want" licenses and various public
 domain dedications may be less attractive to the initial developer for
 various reasons (i.e., a license is preferable to a public domain
 dedication).  The MIT license with all the attribution requirement
-language removed fills this need.
+language removed also addresses this need.
 
 ## License Text
 
