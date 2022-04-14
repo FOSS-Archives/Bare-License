@@ -1,10 +1,11 @@
  
-
+ 
 --- 
-
-
+ 
+ 
 # License Text: 
-
+ 
+ 
  
 **Severability/salvatorius: If any word, part, portion, provision, of this is or should become illegal, invalid, null or void, rendering this unenforceable in any jurisdiction, then that shall not affect:** 
 
@@ -14,20 +15,25 @@ In such a case, the balence that remains would continue to apply as a whole.
 
 --- 
 
-<Year> 
-<Copyright Holder/Licensor> 
+ (FOS) 
+  
+ <Year(s)> 
+ <Main Copyright Holder/Licensor(s)> 
 
 Anyone is permitted to redistribute verbatim (or modified) copies of 
-this Contract Agreement/License Document & changing it is allowed.
+this Contract Agreement/License Document & changing it is allowed. 
+ 
+ The purpose of this Licensing option is to allow works to be available as Free & Open Sourced to the fullest extent that can possibly be permitted, which if the relevant works cannot be dedicated to the public domain with this license, then they shall still have the following fallback: 
 
-0. Permission is hereby granted, free of charge, to any person obtaining a copy of these works, code, 
- and/or associated documentation files (i.e "Software"), to deal in the Software as-is without warranty, 
-for any purpose & without restriction, including but not limited to; the rights to use, copy, modify,
-merge, publish, distribute, sublicense/re-license, and/or sell copies of the Software, and to
+ 0. Permission given to simply just do what you want, you are free to use the openly available work however you would like and as you see fit. 
+ 1. Permission is also hereby granted, free of charge, for any person that is able to/can possibly obtain a copy of these works, code, 
+ and/or associated documentation files (i.e "Software"), to deal in the Software as-is, without warranty, 
+This could be for any purpose & is without restriction to the maximum theoretical extent, including but not limited to; the rights to use, copy, modify,
+merge, publish, distribute, sublicense/re-license/unlicense, and/or sell copies of the Software, and to
 also permit persons to whom the Software is furnished to do so. 
    
-   + **This includes a perpetual, no-charge, royalty-free, & non-exclusive patent-license 
-   to make, have made, use, offer and/or sell, import, and/or otherwise transfer the Software Work(s)  
+   + **This includes an explicit, perpetual, no-charge, royalty-free, & non-exclusive patent-license 
+   to make, have made, use, offer and/or sell, import, and/or otherwise transfer the relevant Work(s)  
   
 ---
  
