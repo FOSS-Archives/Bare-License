@@ -89,3 +89,4 @@ While researching prior to publishing this repo, an alternative option was disco
 <https://romanrm.net/mit-zero>, which is an independent
 formulation and publication of a similar idea. 
  
+(the License Agreement File work itself shall eventually be available under any & every possible combination for dual/multi-license options including but not restricted to fallback terms of the WTFPL, Unlicense, MIT-0, and CC0.) 
