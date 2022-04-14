@@ -17,33 +17,37 @@ In such a case, the balence that remains would continue to apply as a whole.
 
  (FOS) 
   
- <Year(s)> 
- <Main Copyright Holder/Licensor(s)> 
+ <Year(s)>  <Main Copyright Holder/Licensor(s)>  
+   
 
 Anyone is permitted to redistribute verbatim (or modified) copies of 
 this Contract Agreement/License Document & changing it is allowed. 
  
  The purpose of this Licensing option is to allow works to be available as Free & Open Sourced to the fullest extent that can possibly be permitted, which if the relevant works cannot be dedicated to the public domain with this license, then they shall still have the following fallback: 
 
- 0. Permission given to simply just do what you want, you are free to use the openly available work however you would like and as you see fit. 
+ 0. Permission given to simply just do what you would want to, you are free to use the openly available work(s) however you may like & as you would see fit. 
  1. Permission is also hereby granted, free of charge, for any person that is able to/can possibly obtain a copy of these works, code, 
- and/or associated documentation files (i.e "Software"), to deal in the Software as-is, without warranty, 
-This could be for any purpose & is without restriction to the maximum theoretical extent, including but not limited to; the rights to use, copy, modify,
-merge, publish, distribute, sublicense/re-license/unlicense, and/or sell copies of the Software, and to
-also permit persons to whom the Software is furnished to do so. 
+ and/or associated documentation files (i.e "Finished Product"), to deal in the work(s) as-is, without warranty. 
+In addition, This could be for any purpose & is without restriction to the maximum theoretical extent, including but not limited to; the rights to use, copy, modify,
+merge, publish, distribute, sublicense/re-license/unlicense, and/or sell copies of the products, and to
+also permit persons to whom the end-work is furnished, to do so aswell. 
    
-   + **This includes an explicit, perpetual, no-charge, royalty-free, & non-exclusive patent-license 
+   + **This does include an explicit, perpetual, no-charge, royalty-free, & non-exclusive patent-license *(along with any & all other relevant grants)*  
    to make, have made, use, offer and/or sell, import, and/or otherwise transfer the relevant Work(s)  
   
----
+   --- END OF LICENSE --- 
+   
+--- 
  
 
-### Note:
+### Note: 
+
 ```
-THIS LICENSE HAS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- THIS LICENSE HAS BEEN PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ``` 
---- 
---- END OF LICENSE --- 
+---  
+ 
+--- --- --- 
 
 ## The No Attribution" Bare License:
 
@@ -55,23 +59,24 @@ roughly the same as an MIT license consisting of a sandwich of
 
 ### Rationale
 
-This license has proven useful for code that is intended for
+This license may also be useful for code that is intended for
 developers to use as reference, teaching samples, examples, or
-templates that other developers may modify for their own purposes.
+base templates that other developers may modify for their own other purposes.
 
 In many of these cases, the initial developer may not want to impose
 even the cost of attribution, or the use cases may not be conducive to
-attribution.
+attribution. While wanting the benefits of MIT-N Style terms.
 
 The CC0 and various "do what you want" licenses and various public
 domain dedications may be less attractive to the initial developer for
-various reasons (i.e., a license is preferable to a public domain
-dedication).  The MIT license with all the attribution requirement
-language removed also addresses this need. 
+various reasons (i.e., a bare license is preferable to other license domains)
+  The MIT license with all the attribution requirement
+language removed also addresses this need. In the same way that ISC Licenses (+Rights afforded after the Berne Convention) could, if similarly modified. 
 
 
 ### Additional Information
 
-While researching prior to publishing this repo, we discovered
-<https://romanrm.net/mit-zero>, which is an independent prior
-formulation and publication of the same idea. 
+While researching prior to publishing this repo, an alternative option was discovered
+<https://romanrm.net/mit-zero>, which is an independent
+formulation and publication of a similar idea. 
+ 
