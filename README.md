@@ -9,7 +9,7 @@
  --- START OF LICENSE --- 
   
 
-# Bare License: 
+ Bare License: 
 
  
 **Severability/salvatorius: If any word, part, portion, provision, of this is or should become illegal, invalid, null or void, rendering this unenforceable in any jurisdiction, then that shall not affect:** 
@@ -27,7 +27,7 @@ In every & all cases, any part of the balence that could remain shall always con
  <Year(s)>  <Main Copyright Holder/Licensor(s)>  
    
 
-Anyone is permitted to redistribute verbatim (or modified) copies of 
+Everyone is permitted to redistribute verbatim (or modified) copies of 
 this Contract Agreement/License Document & changing it is allowed. 
  
  The purpose of this Licensing option is to allow works to be available as Free & Open Sourced to the fullest extent that can possibly be permitted, which if the relevant works cannot be dedicated to the public domain with this license, then they shall still have the following fallback: 
@@ -58,7 +58,7 @@ also permit persons to whom the end-work is furnished, to do so aswell.
  
 --- --- --- 
 
-## The No Attribution" Bare License:
+## The 0 Attribution" Bare License:
 
 The "No Attribution" or "-0" license is a modification to the
 usual MIT license that also removes the requirement for attribution. It is
@@ -68,7 +68,7 @@ roughly the same as an MIT license consisting of a sandwich of
 
 ### Rationale
 
-This license may also be useful for code that is intended for
+The license may also be useful for code that is intended for
 developers to use as reference, teaching samples, examples, or
 base templates that other developers may modify for their own other purposes.
 
