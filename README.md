@@ -3,10 +3,11 @@
 --- 
  
  
-# License Text: 
+#  Bare License Text: 
  
- 
- 
+  
+ --- START OF LICENSE --- 
+  
 **Severability/salvatorius: If any word, part, portion, provision, of this is or should become illegal, invalid, null or void, rendering this unenforceable in any jurisdiction, then that shall not affect:** 
 
 * the validity or enforceability in that jurisdiction of any other provision of this Contract Agreement; nor the validity or enforceability in any other types of jurisdictions on that or of any other provision of this Agreement.
