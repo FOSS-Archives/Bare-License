@@ -32,8 +32,8 @@ this Contract Agreement/License Document & changing it is allowed.
  
  The purpose of this Licensing option is to allow works to be available as Free & Open Sourced to the fullest extent that can possibly be permitted, which if the relevant works cannot be dedicated to the public domain with this license, then they shall still have the following fallback: 
 
- 0. Permission given to simply just do what you would want to, you are free to use the openly available work(s) however you may like & as you would see fit. 
- 1. Permission is also hereby granted, free of charge, for any person that is able to/can possibly obtain a copy of these works, code, 
+ 0.) Permission given to simply just do what you would want to, you are free to use the openly available work(s) however you may like & as you would see fit. 
+ 1.) Permission is also hereby granted, free of charge, for any person that is able to/can possibly obtain a copy of these works, code, 
  and/or associated documentation files (i.e "Finished Product"), to deal in the work(s) as-is, without warranty. 
 In addition, This could be for any purpose & is without restriction to the maximum theoretical extent, including but not limited to; the rights to use, copy, modify,
 merge, publish, distribute, sublicense/re-license/unlicense, and/or sell copies of the products, and to
