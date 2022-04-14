@@ -8,11 +8,17 @@
   
  --- START OF LICENSE --- 
   
+
+# Bare License: 
+
+ 
 **Severability/salvatorius: If any word, part, portion, provision, of this is or should become illegal, invalid, null or void, rendering this unenforceable in any jurisdiction, then that shall not affect:** 
 
-* the validity or enforceability in that jurisdiction of any other provision of this Contract Agreement; nor the validity or enforceability in any other types of jurisdictions on that or of any other provision of this Agreement.
-* Any other part or character of the license/contract. 
-In such a case, the balence that remains would continue to apply as a whole. 
+* The validity or enforceability in that jurisdiction of any other provision of this Contract Agreement; nor the validity or enforceability in any other types of jurisdictions on that or of any other provision of this Licensing Agreement.
++ Nor any other character or part of the license/contract. 
+In every & all cases, any part of the balence that could remain shall always continue to apply as a whole 
+
+(The rest of this license shall always remain in effect, as agreed, instead of completely being rendered/held as invalid or flawed by any judgement/form of law.) 
 
 --- 
 
@@ -33,9 +39,11 @@ In addition, This could be for any purpose & is without restriction to the maxim
 merge, publish, distribute, sublicense/re-license/unlicense, and/or sell copies of the products, and to
 also permit persons to whom the end-work is furnished, to do so aswell. 
    
-   + **This does include an explicit, perpetual, no-charge, royalty-free, & non-exclusive patent-license *(along with any & all other relevant grants)*  
+   + **This would include an explicit, perpetual, no-charge, royalty-free, & non-exclusive patent-license *(along with any & all other relevant grants)*  
    to make, have made, use, offer and/or sell, import, and/or otherwise transfer the relevant Work(s)  
-  
+   
+   If there was ever to be a question regarding the terms or intention of this license, then the most open & permissive  (or defending) opinion shall take precedence over any & all other options. 
+   
    --- END OF LICENSE --- 
    
 --- 
