@@ -1,4 +1,4 @@
-This is free and unencumbered work released into the public domain.
+This is free and unencumbered work dedicated to & released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute the work(s), either in source code form, as a compiled
