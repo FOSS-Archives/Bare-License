@@ -33,6 +33,7 @@ this Contract Agreement/License Document & changing it is allowed.
  The purpose of this Licensing option is to allow works to be available as Free & Open Sourced to the fullest extent that can possibly be permitted, which if the relevant works cannot be dedicated to the public domain with this license, then they shall still have the following fallback: 
 
  0.) Permission given to simply just do what you would want to, you are free to use the openly available work(s) however you may like & as you would see fit. 
+  
  1.) Permission is also hereby granted, free of charge, for any person that is able to/can possibly obtain a copy of these works, code, 
  and/or associated documentation files (i.e "Finished Product"), to deal in the work(s) as-is, without warranty. 
 In addition, This could be for any purpose & is without restriction to the maximum theoretical extent, including but not limited to; the rights to use, copy, modify,
@@ -42,7 +43,8 @@ also permit persons to whom the end-work is furnished, to do so aswell.
    + **This would include an explicit, perpetual, no-charge, royalty-free, & non-exclusive patent-license *(along with any & all other relevant grants)*  
    to make, have made, use, offer and/or sell, import, and/or otherwise transfer the relevant Work(s)  
    
-   If there was ever to be a question regarding the terms or intention of this license, then the most open & permissive  (or defending) opinion shall take precedence over any & all other options. 
+   If there was ever to be a question regarding the terms or intention of this license, then the most open & permissive  (or the user defending) opinion shall take precedence over any & all other options. 
+   This is because of the same reasons as stated before; the intention behind this license is to allow users to do what they would like & as they see fit, also to atleast have all the same rights that the Public Domain would provide. (Whether under local or international interpretations)
    
    --- END OF LICENSE --- 
    
