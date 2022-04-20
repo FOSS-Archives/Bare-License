@@ -23,4 +23,4 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
 
-Also available under other options including but not limited to: WTFPL, MIT-0, and CC0 (either separately, or jointly combined) terms at your & any other users discretion. 
+Also available under other options including but not limited to: WTFPL, MIT-0, and CC0 (either separately, or joined in any combination) terms at your & any other users discretion. 
